@@ -5,7 +5,7 @@ Welcome to the CUHP APP !  This application is designed to provide faculty detai
 ## Features
 
 - **Faculty Details:** View information about faculty members including their names, departments, contact details, etc.
-- - **Course Details:** View information about different courses and syllabus of various departments.
+- **Course Details:** View information about different courses and syllabus of various departments.
 - **Notices:** Stay updated with the latest announcements and notices from the university administration.
 - **Holiday List:** Access a list of holidays and important dates for the academic year.
 - **Other Important Details:** Explore additional information relevant to students, faculty, and staff.
