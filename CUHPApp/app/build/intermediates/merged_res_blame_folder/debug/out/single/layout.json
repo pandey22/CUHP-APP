@@ -1,0 +1,126 @@
+[
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-mergeDebugResources-51:\\layout\\activity_update_faculty2.xml",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\layout\\activity_update_faculty2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-mergeDebugResources-51:\\layout\\fragment_about.xml",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\layout\\fragment_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-mergeDebugResources-51:\\layout\\notice_item_layout.xml",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\layout\\notice_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-mergeDebugResources-51:\\layout\\no_ebook_found.xml",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\layout\\no_ebook_found.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-mergeDebugResources-51:\\layout\\notice_item.xml",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\layout\\notice_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-mergeDebugResources-51:\\layout\\activity_delete_files.xml",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\layout\\activity_delete_files.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-mergeDebugResources-51:\\layout\\activity_upload_pdf.xml",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\layout\\activity_upload_pdf.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-mergeDebugResources-51:\\layout\\activity_delete_image.xml",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\layout\\activity_delete_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-mergeDebugResources-51:\\layout\\activity_delete_ebook.xml",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\layout\\activity_delete_ebook.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-mergeDebugResources-51:\\layout\\faculty_layout.xml",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\layout\\faculty_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-mergeDebugResources-51:\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "com.example.cuhpapp-mergeDebugResources-51:/layout/fragment_about.xml",
+        "source": "com.example.cuhpapp-main-54:/layout/fragment_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-mergeDebugResources-51:\\layout\\fragment_gallery.xml",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\layout\\fragment_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-mergeDebugResources-51:\\layout\\faculty_item_layout.xml",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\layout\\faculty_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-mergeDebugResources-51:\\layout\\no_notice_found.xml",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\layout\\no_notice_found.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-mergeDebugResources-51:\\layout\\fragment_faculty.xml",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\layout\\fragment_faculty.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-mergeDebugResources-51:\\layout\\text.xml",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\layout\\text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-mergeDebugResources-51:\\layout\\activity_admin_side.xml",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\layout\\activity_admin_side.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-mergeDebugResources-51:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-mergeDebugResources-51:\\layout\\no_data_found.xml",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\layout\\no_data_found.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-mergeDebugResources-51:\\layout\\list_item.xml",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\layout\\list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-mergeDebugResources-51:\\layout\\activity_upload_notice.xml",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\layout\\activity_upload_notice.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-mergeDebugResources-51:\\layout\\activity_upload_image.xml",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\layout\\activity_upload_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-mergeDebugResources-51:\\layout\\activity_delete_notice.xml",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\layout\\activity_delete_notice.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-mergeDebugResources-51:\\layout\\activity_addteacher.xml",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\layout\\activity_addteacher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-mergeDebugResources-51:\\layout\\no_image_found.xml",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\layout\\no_image_found.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-mergeDebugResources-51:\\layout\\fragment_notice.xml",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\layout\\fragment_notice.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-mergeDebugResources-51:\\layout\\image_layout.xml",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\layout\\image_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-mergeDebugResources-51:\\layout\\activity_update_faculty.xml",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\layout\\activity_update_faculty.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-mergeDebugResources-51:\\layout\\delete_image_layout.xml",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\layout\\delete_image_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-mergeDebugResources-51:\\layout\\activity_student_side.xml",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\layout\\activity_student_side.xml"
+    }
+]

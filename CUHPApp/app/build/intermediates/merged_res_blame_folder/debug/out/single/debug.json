@@ -1,0 +1,442 @@
+[
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-merged_res-52:\\drawable_cuhp_home.jpg.flat",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\drawable\\cuhp_home.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-merged_res-52:\\drawable_circle_purple.xml.flat",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\drawable\\circle_purple.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-merged_res-52:\\mipmap-xxxhdpi_cuhp_icon_foreground.webp.flat",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\mipmap-xxxhdpi\\cuhp_icon_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-merged_res-52:\\layout_fragment_notice.xml.flat",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\layout\\fragment_notice.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-merged_res-52:\\font_open_sans_regular.ttf.flat",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\font\\open_sans_regular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-merged_res-52:\\mipmap-anydpi-v26_cuhp_icon.xml.flat",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\mipmap-anydpi-v26\\cuhp_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-merged_res-52:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-merged_res-52:\\drawable_ic_share.xml.flat",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\drawable\\ic_share.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-merged_res-52:\\layout_no_ebook_found.xml.flat",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\layout\\no_ebook_found.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-merged_res-52:\\drawable_ic_samarth.xml.flat",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\drawable\\ic_samarth.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-merged_res-52:\\mipmap-xxxhdpi_cuhp_icon_round.webp.flat",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\mipmap-xxxhdpi\\cuhp_icon_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-merged_res-52:\\layout_delete_image_layout.xml.flat",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\layout\\delete_image_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-merged_res-52:\\mipmap-hdpi_cuhp_icon.webp.flat",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\mipmap-hdpi\\cuhp_icon.webp"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-merged_res-52:\\drawable_ic_about.xml.flat",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\drawable\\ic_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-merged_res-52:\\drawable_border.xml.flat",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\drawable\\border.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-merged_res-52:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-merged_res-52:\\mipmap-xhdpi_cuhp_icon.webp.flat",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\mipmap-xhdpi\\cuhp_icon.webp"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-merged_res-52:\\drawable_ic_group.xml.flat",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\drawable\\ic_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-merged_res-52:\\menu_bottom_nav.xml.flat",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\menu\\bottom_nav.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-merged_res-52:\\layout_activity_delete_ebook.xml.flat",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\layout\\activity_delete_ebook.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-merged_res-52:\\menu_nav_drawer.xml.flat",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\menu\\nav_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-merged_res-52:\\drawable_ic_no_image.xml.flat",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\drawable\\ic_no_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-merged_res-52:\\layout_text.xml.flat",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\layout\\text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-merged_res-52:\\mipmap-xxhdpi_cuhp_icon_round.webp.flat",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\mipmap-xxhdpi\\cuhp_icon_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-merged_res-52:\\drawable_ic_notice2.xml.flat",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\drawable\\ic_notice2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-merged_res-52:\\layout_no_image_found.xml.flat",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\layout\\no_image_found.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-merged_res-52:\\layout_notice_item_layout.xml.flat",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\layout\\notice_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-merged_res-52:\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-merged_res-52:\\layout_activity_delete_files.xml.flat",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\layout\\activity_delete_files.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-merged_res-52:\\mipmap-hdpi_cuhp_icon_round.webp.flat",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\mipmap-hdpi\\cuhp_icon_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-merged_res-52:\\layout_activity_student_side.xml.flat",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\layout\\activity_student_side.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-merged_res-52:\\layout_notice_item.xml.flat",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\layout\\notice_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-merged_res-52:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-merged_res-52:\\layout_activity_upload_image.xml.flat",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\layout\\activity_upload_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-merged_res-52:\\layout_activity_update_faculty.xml.flat",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\layout\\activity_update_faculty.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-merged_res-52:\\layout_image_layout.xml.flat",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\layout\\image_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-merged_res-52:\\drawable_ic_admin.xml.flat",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\drawable\\ic_admin.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-merged_res-52:\\mipmap-xhdpi_cuhp_icon_round.webp.flat",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\mipmap-xhdpi\\cuhp_icon_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-merged_res-52:\\drawable_ic_developer.xml.flat",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\drawable\\ic_developer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-merged_res-52:\\drawable_cuhp_icon_background.xml.flat",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\drawable\\cuhp_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-merged_res-52:\\drawable_no_data.xml.flat",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\drawable\\no_data.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-merged_res-52:\\layout_faculty_item_layout.xml.flat",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\layout\\faculty_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-merged_res-52:\\navigation_mobile_nav.xml.flat",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\navigation\\mobile_nav.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-merged_res-52:\\drawable_vc_image.jpg.flat",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\drawable\\vc_image.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-merged_res-52:\\drawable_ic_ebook.xml.flat",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\drawable\\ic_ebook.xml"
+    },
+    {
+        "merged": "com.example.cuhpapp-merged_res-52:/layout_fragment_about.xml.flat",
+        "source": "com.example.cuhpapp-main-54:/layout/fragment_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-merged_res-52:\\font_open_sans_semi_bold.ttf.flat",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\font\\open_sans_semi_bold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-merged_res-52:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-merged_res-52:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-merged_res-52:\\mipmap-xxhdpi_cuhp_icon.webp.flat",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\mipmap-xxhdpi\\cuhp_icon.webp"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-merged_res-52:\\drawable_circle_yellow.xml.flat",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\drawable\\circle_yellow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-merged_res-52:\\layout_no_data_found.xml.flat",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\layout\\no_data_found.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-merged_res-52:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-merged_res-52:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-merged_res-52:\\layout_fragment_about.xml.flat",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\layout\\fragment_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-merged_res-52:\\drawable_ic_no_notice.xml.flat",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\drawable\\ic_no_notice.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-merged_res-52:\\layout_activity_upload_pdf.xml.flat",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\layout\\activity_upload_pdf.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-merged_res-52:\\drawable_ic_upload.xml.flat",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\drawable\\ic_upload.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-merged_res-52:\\layout_activity_update_faculty2.xml.flat",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\layout\\activity_update_faculty2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-merged_res-52:\\drawable_ic_pdf.xml.flat",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\drawable\\ic_pdf.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-merged_res-52:\\drawable_ic_attachment.xml.flat",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\drawable\\ic_attachment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-merged_res-52:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-merged_res-52:\\drawable_ic_delete.xml.flat",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\drawable\\ic_delete.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-merged_res-52:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-merged_res-52:\\layout_faculty_layout.xml.flat",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\layout\\faculty_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-merged_res-52:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-merged_res-52:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-merged_res-52:\\drawable_ic_gallery2.xml.flat",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\drawable\\ic_gallery2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-merged_res-52:\\drawable_cuhp_home.png.flat",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\drawable\\cuhp_home.png"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-merged_res-52:\\drawable_ic_no_ebook.xml.flat",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\drawable\\ic_no_ebook.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-merged_res-52:\\layout_list_item.xml.flat",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\layout\\list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-merged_res-52:\\mipmap-xhdpi_cuhp_icon_foreground.webp.flat",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\mipmap-xhdpi\\cuhp_icon_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-merged_res-52:\\layout_activity_delete_image.xml.flat",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\layout\\activity_delete_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-merged_res-52:\\layout_activity_upload_notice.xml.flat",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\layout\\activity_upload_notice.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-merged_res-52:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-merged_res-52:\\drawable_ic_faculty.xml.flat",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\drawable\\ic_faculty.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-merged_res-52:\\drawable_ic_description.xml.flat",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\drawable\\ic_description.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-merged_res-52:\\drawable_ic_image.xml.flat",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\drawable\\ic_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-merged_res-52:\\drawable_ic_website.xml.flat",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\drawable\\ic_website.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-merged_res-52:\\drawable_ic_student.xml.flat",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\drawable\\ic_student.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-merged_res-52:\\drawable_ic_home.xml.flat",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\drawable\\ic_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-merged_res-52:\\layout_activity_addteacher.xml.flat",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\layout\\activity_addteacher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-merged_res-52:\\drawable_ic_gallery.xml.flat",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\drawable\\ic_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-merged_res-52:\\drawable_avatar_profile.webp.flat",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\drawable\\avatar_profile.webp"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-merged_res-52:\\drawable_border2.xml.flat",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\drawable\\border2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-merged_res-52:\\layout_fragment_gallery.xml.flat",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\layout\\fragment_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-merged_res-52:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-merged_res-52:\\layout_no_notice_found.xml.flat",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\layout\\no_notice_found.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-merged_res-52:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-merged_res-52:\\layout_activity_delete_notice.xml.flat",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\layout\\activity_delete_notice.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-merged_res-52:\\drawable_circle_red.xml.flat",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\drawable\\circle_red.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-merged_res-52:\\layout_activity_admin_side.xml.flat",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\layout\\activity_admin_side.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-merged_res-52:\\drawable_ic_add.xml.flat",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\drawable\\ic_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-merged_res-52:\\drawable_img.png.flat",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\drawable\\img.png"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-merged_res-52:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-merged_res-52:\\mipmap-mdpi_cuhp_icon_foreground.webp.flat",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\mipmap-mdpi\\cuhp_icon_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-merged_res-52:\\mipmap-xxhdpi_cuhp_icon_foreground.webp.flat",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\mipmap-xxhdpi\\cuhp_icon_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-merged_res-52:\\drawable_ic_notice.xml.flat",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\drawable\\ic_notice.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-merged_res-52:\\drawable_ic_event.xml.flat",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\drawable\\ic_event.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-merged_res-52:\\drawable_circle_pink.xml.flat",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\drawable\\circle_pink.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-merged_res-52:\\mipmap-xxxhdpi_cuhp_icon.webp.flat",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\mipmap-xxxhdpi\\cuhp_icon.webp"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-merged_res-52:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-merged_res-52:\\layout_fragment_faculty.xml.flat",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\layout\\fragment_faculty.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-merged_res-52:\\mipmap-mdpi_cuhp_icon.webp.flat",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\mipmap-mdpi\\cuhp_icon.webp"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-merged_res-52:\\mipmap-mdpi_cuhp_icon_round.webp.flat",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\mipmap-mdpi\\cuhp_icon_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-merged_res-52:\\mipmap-anydpi-v26_cuhp_icon_round.xml.flat",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\mipmap-anydpi-v26\\cuhp_icon_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-merged_res-52:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-merged_res-52:\\mipmap-hdpi_cuhp_icon_foreground.webp.flat",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\mipmap-hdpi\\cuhp_icon_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-merged_res-52:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-merged_res-52:\\drawable_circle_green.xml.flat",
+        "source": "C:\\Users\\Sahil\\.gradle\\daemon\\8.2\\com.example.cuhpapp-main-54:\\drawable\\circle_green.xml"
+    }
+]

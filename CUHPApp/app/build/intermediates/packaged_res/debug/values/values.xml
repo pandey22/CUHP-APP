@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="border_color">#0F339F</color>
+    <color name="card">#F5F4F6</color>
+    <color name="cardBackground">#638ECB</color>
+    <color name="colorAccent">#0277bd</color>
+    <color name="colorPrimary">#0277bd</color>
+    <color name="colorPrimaryDark">#004c8c</color>
+    <color name="cuhp_icon_background">#1B1B1C</color>
+    <color name="deeppurple">#7c4dff</color>
+    <color name="green1">#2B98EC</color>
+    <color name="heading">#256DD8</color>
+    <color name="lightGray">#c1c1c1</color>
+    <color name="mainBackground">#EBEDED</color>
+    <color name="pink">#d242ec</color>
+    <color name="red2">#E10000</color>
+    <color name="textColor">#121212</color>
+    <color name="white">#F1FAFF</color>
+    <color name="yellow">#ffb300</color>
+    <dimen name="fab_margin">16dp</dimen>
+    <string name="app_name">CUHP</string>
+    <string name="close">Close</string>
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="gcm_defaultSenderId" translatable="false">214357365468</string>
+    <string name="google_api_key" translatable="false">AIzaSyBPzkDjDzHi2B6kG5GShpPBq5PIuqMamnM</string>
+    <string name="google_app_id" translatable="false">1:214357365468:android:46950f5ee88561b3821a19</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBPzkDjDzHi2B6kG5GShpPBq5PIuqMamnM</string>
+    <string name="google_storage_bucket" translatable="false">cuhp-app.appspot.com</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="project_id" translatable="false">cuhp-app</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="start">Start </string>
+    <string name="title_activity_upload_image">UploadImage</string>
+    <style name="Base.Theme.CUHPApp" parent="Theme.MaterialComponents.Light.DarkActionBar">
+        
+         <item name="colorPrimary">@color/green1</item>
+    </style>
+    <style name="Theme.CUHPApp" parent="Base.Theme.CUHPApp"/>
+</resources>
