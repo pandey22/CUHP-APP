@@ -2,6 +2,10 @@
 
 Welcome to the CUHP APP !  This application is designed to provide faculty details, notices, holiday lists, and other important information for the university.
 
+##update 
+
+- **added login and sign up page for Super Admin , HOD , Faculty , DEO , Student.
+
 ## Features
 
 - **Faculty Details:** View information about faculty members including their names, departments, contact details, etc.
