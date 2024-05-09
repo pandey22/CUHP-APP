@@ -4,7 +4,7 @@ Welcome to the CUHP APP !  This application is designed to provide faculty detai
 
 ##update 
 
-- **added login and sign up page for Super Admin , HOD , Faculty , DEO , Student.
+- **added login and sign up page for Super Admin , HOD , Faculty , DEO , Student.**
 
 ## Features
 
